@@ -1,1 +1,1 @@
-code that negates the effects of a "double" click (bounce of the button) by only taking a single command within the amount of time alloted.
+code that negates the effects of a "double" click (bounce of the button) by only taking a single command within the amount of time alloted. waits for a 100000 cycles before taking "second"button press.
